@@ -193,7 +193,7 @@ Por ejemplo, agrega una breve descripción del sistema en la siguiente sección:
 
 Escribe aquí una descripción breve del sistema:
 
-> Respuesta del estudiante: ...
+Sistema pequeño en JavaScript (Node.js) que calcula el precio final de un producto según el tipo de cliente. Los clientes de tipo "estudiante" reciben un 15% de descuento y el resto paga el precio normal. Incluye pruebas automáticas que se ejecutan con npm test.
 
 Luego realice un commit:
 
